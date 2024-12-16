@@ -1,0 +1,120 @@
+2024-12-16 12:54:22,009 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is started
+2024-12-16 12:54:22,009 : INFO :test_bankapp_url_001: Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 12:54:26,191 : INFO :test_bankapp_url_001: Checking the Bank Application Title-->Bank Application
+2024-12-16 12:54:26,197 : INFO :test_bankapp_url_001: Taking screenshot
+2024-12-16 12:54:26,405 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is passed
+
+2024-12-16 12:54:26,409 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is started
+2024-12-16 12:54:26,410 : INFO :test_bankapp_login_002: Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-16 12:54:26,874 : INFO :test_bankapp_login_002: Entering the Username
+2024-12-16 12:54:26,990 : INFO :test_bankapp_login_002: Entering the Password
+2024-12-16 12:54:27,060 : INFO :test_bankapp_login_002: Clicking the Login Button
+2024-12-16 12:54:32,119 : INFO :test_bankapp_login_002: Verify Page Title
+2024-12-16 12:54:32,125 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Pass
+2024-12-16 12:54:32,126 : INFO :test_bankapp_login_002: Taking the screenshot
+2024-12-16 12:54:32,338 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Passed
+2024-12-16 12:55:23,120 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is started
+2024-12-16 12:55:23,121 : INFO :test_bankapp_url_001: Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 12:55:25,389 : INFO :test_bankapp_url_001: Checking the Bank Application Title-->Bank Application
+2024-12-16 12:55:25,395 : INFO :test_bankapp_url_001: Taking screenshot
+2024-12-16 12:55:25,597 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is passed
+
+2024-12-16 12:55:25,600 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is started
+2024-12-16 12:55:25,600 : INFO :test_bankapp_login_002: Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-16 12:55:26,036 : INFO :test_bankapp_login_002: Entering the Username
+2024-12-16 12:55:26,128 : INFO :test_bankapp_login_002: Entering the Password
+2024-12-16 12:55:26,201 : INFO :test_bankapp_login_002: Clicking the Login Button
+2024-12-16 12:55:30,753 : INFO :test_bankapp_login_002: Verify Page Title
+2024-12-16 12:55:30,761 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Pass
+2024-12-16 12:55:30,761 : INFO :test_bankapp_login_002: Taking the screenshot
+2024-12-16 12:55:30,972 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Passed
+2024-12-16 15:07:00,430 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is started
+2024-12-16 15:07:00,433 : INFO :test_bankapp_url_001: Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 15:07:04,295 : INFO :test_bankapp_url_001: Checking the Bank Application Title-->Bank Application
+2024-12-16 15:07:04,307 : INFO :test_bankapp_url_001: Taking screenshot
+2024-12-16 15:07:04,580 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is passed
+
+2024-12-16 15:07:04,593 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is started
+2024-12-16 15:07:04,593 : INFO :test_bankapp_login_002: Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-16 15:07:05,082 : INFO :test_bankapp_login_002: Entering the Username
+2024-12-16 15:07:05,297 : INFO :test_bankapp_login_002: Entering the Password
+2024-12-16 15:07:05,428 : INFO :test_bankapp_login_002: Clicking the Login Button
+2024-12-16 15:07:10,599 : INFO :test_bankapp_login_002: Verify Page Title
+2024-12-16 15:07:10,609 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Pass
+2024-12-16 15:07:10,609 : INFO :test_bankapp_login_002: Taking the screenshot
+2024-12-16 15:07:10,867 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Passed
+2024-12-16 15:07:43,202 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is started
+2024-12-16 15:07:43,202 : INFO :test_bankapp_url_001: Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 15:07:48,201 : INFO :test_bankapp_url_001: Checking the Bank Application Title-->Bank Application
+2024-12-16 15:07:48,217 : INFO :test_bankapp_url_001: Taking screenshot
+2024-12-16 15:07:48,485 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is passed
+
+2024-12-16 15:07:48,488 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is started
+2024-12-16 15:07:48,489 : INFO :test_bankapp_login_002: Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-16 15:07:49,029 : INFO :test_bankapp_login_002: Entering the Username
+2024-12-16 15:07:49,190 : INFO :test_bankapp_login_002: Entering the Password
+2024-12-16 15:07:49,320 : INFO :test_bankapp_login_002: Clicking the Login Button
+2024-12-16 15:07:56,322 : INFO :test_bankapp_login_002: Verify Page Title
+2024-12-16 15:07:56,330 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Pass
+2024-12-16 15:07:56,330 : INFO :test_bankapp_login_002: Taking the screenshot
+2024-12-16 15:07:56,594 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Passed
+2024-12-16 15:09:00,165 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is started
+2024-12-16 15:09:00,166 : INFO :test_bankapp_url_001: Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 15:09:04,913 : INFO :test_bankapp_url_001: Checking the Bank Application Title-->Bank Application
+2024-12-16 15:09:04,923 : INFO :test_bankapp_url_001: Taking screenshot
+2024-12-16 15:09:05,198 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is passed
+
+2024-12-16 15:09:05,202 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is started
+2024-12-16 15:09:05,202 : INFO :test_bankapp_login_002: Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-16 15:09:05,670 : INFO :test_bankapp_login_002: Entering the Username
+2024-12-16 15:09:05,826 : INFO :test_bankapp_login_002: Entering the Password
+2024-12-16 15:09:05,960 : INFO :test_bankapp_login_002: Clicking the Login Button
+2024-12-16 15:09:11,880 : INFO :test_bankapp_login_002: Verify Page Title
+2024-12-16 15:09:11,890 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Pass
+2024-12-16 15:09:11,890 : INFO :test_bankapp_login_002: Taking the screenshot
+2024-12-16 15:09:12,143 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Passed
+2024-12-16 15:10:18,232 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is started
+2024-12-16 15:10:18,233 : INFO :test_bankapp_url_001: Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 15:10:27,093 : INFO :test_bankapp_url_001: Checking the Bank Application Title-->Bank Application
+2024-12-16 15:10:27,099 : INFO :test_bankapp_url_001: Taking screenshot
+2024-12-16 15:10:27,311 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is passed
+
+2024-12-16 15:10:27,313 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is started
+2024-12-16 15:10:27,313 : INFO :test_bankapp_login_002: Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-16 15:10:28,383 : INFO :test_bankapp_login_002: Entering the Username
+2024-12-16 15:10:28,506 : INFO :test_bankapp_login_002: Entering the Password
+2024-12-16 15:10:28,592 : INFO :test_bankapp_login_002: Clicking the Login Button
+2024-12-16 15:10:35,194 : INFO :test_bankapp_login_002: Verify Page Title
+2024-12-16 15:10:35,200 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Pass
+2024-12-16 15:10:35,200 : INFO :test_bankapp_login_002: Taking the screenshot
+2024-12-16 15:10:35,398 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Passed
+2024-12-16 15:17:01,216 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is started
+2024-12-16 15:17:01,216 : INFO :test_bankapp_url_001: Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 15:17:06,110 : INFO :test_bankapp_url_001: Checking the Bank Application Title-->Bank Application
+2024-12-16 15:17:06,118 : INFO :test_bankapp_url_001: Taking screenshot
+2024-12-16 15:17:06,394 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is passed
+
+2024-12-16 15:17:06,397 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is started
+2024-12-16 15:17:06,397 : INFO :test_bankapp_login_002: Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-16 15:17:06,869 : INFO :test_bankapp_login_002: Entering the Username
+2024-12-16 15:17:07,030 : INFO :test_bankapp_login_002: Entering the Password
+2024-12-16 15:17:07,164 : INFO :test_bankapp_login_002: Clicking the Login Button
+2024-12-16 15:17:15,235 : INFO :test_bankapp_login_002: Verify Page Title
+2024-12-16 15:17:15,242 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Pass
+2024-12-16 15:17:15,242 : INFO :test_bankapp_login_002: Taking the screenshot
+2024-12-16 15:17:15,506 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Passed
+2024-12-16 15:25:36,815 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is started
+2024-12-16 15:25:36,815 : INFO :test_bankapp_url_001: Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 15:25:41,065 : INFO :test_bankapp_url_001: Checking the Bank Application Title-->Bank Application
+2024-12-16 15:25:41,077 : INFO :test_bankapp_url_001: Taking screenshot
+2024-12-16 15:25:41,361 : INFO :test_bankapp_url_001: Testcase test_bankapp_url_001 is passed
+
+2024-12-16 15:25:41,365 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is started
+2024-12-16 15:25:41,365 : INFO :test_bankapp_login_002: Opening the Bank Application URL-->https://apps.credence.in/login.html 
+2024-12-16 15:25:41,917 : INFO :test_bankapp_login_002: Entering the Username
+2024-12-16 15:25:42,081 : INFO :test_bankapp_login_002: Entering the Password
+2024-12-16 15:25:42,218 : INFO :test_bankapp_login_002: Clicking the Login Button
+2024-12-16 15:25:47,463 : INFO :test_bankapp_login_002: Verify Page Title
+2024-12-16 15:25:47,474 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Pass
+2024-12-16 15:25:47,475 : INFO :test_bankapp_login_002: Taking the screenshot
+2024-12-16 15:25:47,761 : INFO :test_bankapp_login_002: Testcase test_bankapp_login_002 is Passed
